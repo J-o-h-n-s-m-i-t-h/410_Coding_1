@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-#from cgi import test
-#from unittest import TestResult
-
 
 print("The Test Scores Application")
 print()
